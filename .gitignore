@@ -1,0 +1,9 @@
+.env
+node_modules
+public/src/AC_exp_minimal.bak
+public/views/finish.html
+public/views/finish.bak
+public/views/finish_OLD.html
+public/views/finish_OLD.bak
+public/views/index_AC_minimal.html
+instructions_2020_12_17.docx

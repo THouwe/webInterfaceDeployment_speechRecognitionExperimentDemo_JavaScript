@@ -1,0 +1,75 @@
+Match 2.3, compiled Sep  9 2014 09:43:10 started at Mon Jan 04 10:42:28 2021
+
+****  Script: C:\Users\Houwelin2\Desktop\ACexp_NodeJs\stimuli\wordRec\counterbalanceWords\matchScriptWords205_2021_01_04.txt  ****
+
+InputFile IN1 words205.txt matchedList1.txt
+InputFile IN2 words205.txt matchedList2.txt
+OutputSize 50
+MatchFields AllDataSets 6
+MatchFields AllDataSets 7
+MatchFields AllDataSets 9
+MatchFields AllDataSets 10
+OutputFile outputWords205_2021_01_04.txt
+
+**********  End Script **********
+
+Random seed used: 1609753348
+
+Information per input file:
+
+  IN1, words205.txt : 205 items.
+
+    Field  Min    Max      Mean     Median   StdDev    StdErr
+    ------------------------------------------------------------
+           1      40       8.06341  6        7.9478    0.555098
+           0.79   1848.32  122.639  15.0317  284.394   19.8629
+           1.322  4.014    2.60505  2.579    0.613048  0.0428171
+           1      4        1.79024  2        0.67874   0.0474053
+
+
+Matching strategy: PairWise
+
+  ******  Matching started, size 50, hit Control-C to stop  ******
+
+Preparing for matching process...
+Matching started, time 00:00:41.239
+Solution found: Score 0.332736, time 00:00:4.799
+
+Datasets after matching:
+
+  IN1  matchedList1.txt : 50 items.
+
+    Field  Min    Max      Mean     Median  StdDev    StdErr
+    -----------------------------------------------------------
+           1      10       3.02     2       2.60682   0.36866
+           0.79   140.733  10.2542  6.25    20.3326   2.87546
+           1.322  3.698    2.39332  2.4125  0.548928  0.0776301
+           1      4        2.16     2       0.618095  0.0874118
+
+
+  IN2  matchedList2.txt : 50 items.
+
+    Field  Min    Max      Mean     Median   StdDev    StdErr
+    ------------------------------------------------------------
+           1      10       2.98     2        2.54342   0.359694
+           0.79   156.692  11.1304  5.37835  22.8111   3.22598
+           1.362  3.478    2.39802  2.3795   0.528942  0.0748037
+           1      4        2.16     2        0.618095  0.0874118
+
+
+Matching information per match-field:
+
+
+  
+
+    Set  N   Min    Max      Mean     Median   StdDev    StdErr
+    --------------------------------------------------------------
+    IN1  50  1      10       3.02     2        2.60682   0.36866
+    IN2  50  1      10       2.98     2        2.54342   0.359694
+    IN1  50  0.79   140.733  10.2542  6.25     20.3326   2.87546
+    IN2  50  0.79   156.692  11.1304  5.37835  22.8111   3.22598
+    IN1  50  1.322  3.698    2.39332  2.4125   0.548928  0.0776301
+    IN2  50  1.362  3.478    2.39802  2.3795   0.528942  0.0748037
+    IN1  50  1      4        2.16     2        0.618095  0.0874118
+    IN2  50  1      4        2.16     2        0.618095  0.0874118
+

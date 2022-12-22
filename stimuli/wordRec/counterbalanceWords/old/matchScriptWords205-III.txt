@@ -1,0 +1,11 @@
+InputFile IN1 words205.txt matchedList1-III.txt
+InputFile IN2 words205.txt matchedList2-III.txt
+
+OutputSize 50
+
+MatchFields AllDataSets 6
+MatchFields AllDataSets 7
+MatchFields AllDataSets 9
+MatchFields AllDataSets 10   
+
+OutputFile generalOutputWords205-II.txt

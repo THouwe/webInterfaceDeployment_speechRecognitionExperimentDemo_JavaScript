@@ -1,0 +1,8 @@
+    'Peil Beil Beil Peil '
+    'Pin  Bin  Bin  Pin  '
+    'Pein Bein Bein Pein '
+    'Pier Bier Bier Pier '
+    'Paar Bar  Bar  Paar '
+    'Pet  Bett Bett Pet  '
+    'Pellt Bellt Bellt Pellt'
+    'Pack Back Back Pack '

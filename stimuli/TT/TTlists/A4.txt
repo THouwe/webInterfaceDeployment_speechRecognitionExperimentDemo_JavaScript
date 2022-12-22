@@ -1,0 +1,8 @@
+    'Deich Teich Teich Deich'
+    'Dill Till Till Dill '
+    'Dir  Tier Tier Dir  '
+    'Dorf Torf Torf Dorf '
+    'Dick Tick Tick Dick '
+    'Dip  Tipp Tipp Dip  '
+    'Dank Tank Tank Dank '
+    'Dal Tal Tal Dal  '
